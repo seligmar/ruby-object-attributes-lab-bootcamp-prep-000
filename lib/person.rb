@@ -1,13 +1,14 @@
 class Person 
-  def name=
-    @name = name
+  def name=(persons_name)
+    @name = persons_name
   end 
   
   def name
     @name
   end 
   
-  def job=
+  def job=(persons_job)
+    @job = persons_job
   end
   
   def job
