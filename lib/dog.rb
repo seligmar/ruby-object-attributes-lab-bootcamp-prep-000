@@ -7,10 +7,10 @@ class Dog
     @name
   end 
   
-  
+  def breed=
+  end
   def breed
     @breed
   end
-  def breed=
-  end
+  
 end
