@@ -6,9 +6,9 @@ You'll be teaching Dog about their breed through two methods, #breed, and #breed
 
 class Dog
   def name
-    
+    @name
   end 
   def name=
   end 
-  @name
+  
 end
